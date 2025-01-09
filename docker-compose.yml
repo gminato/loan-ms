@@ -1,6 +1,6 @@
 services:
   accounts:
-    image: "471112693797.dkr.ecr.us-east-1.amazonaws.com/account-ms:latest"
+    image: "accounts-ms:1.0"
     container_name: accounts-ms
     ports:
       - "8080:8080"
