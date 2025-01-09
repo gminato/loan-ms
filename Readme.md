@@ -1,7 +1,7 @@
 # Loan Management System
 
 ## Overview
-The Loan Management System is a Java-based application designed to manage loan-related operations. It provides functionalities for creating, updating, and tracking loans. This is a part of bank-ms.[Bank Microservice](https://github.com/yourusername/loan-ms).
+The Loan Management System is a Java-based application designed to manage loan-related operations. It provides functionalities for creating, updating, and tracking loans. This is a part of bank-ms.[Bank Microservice](https://github.com/gminato/loan-ms).
 
 ## Features
 - Create new loan applications
